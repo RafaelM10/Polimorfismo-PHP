@@ -1,0 +1,12 @@
+{
+  "name": "rafael/projeto-agendamento",
+  "description": "Um sistema de agendamento básico em PHP para solidificar os 4 pilares da POO",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload":{
+    "psr-4":{
+        "Auto\\":"src"
+    }
+}
+}
